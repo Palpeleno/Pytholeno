@@ -99,7 +99,7 @@ def main():
         angle, vel, height = dialog.getValues()
 
     # create animation window
-    win = GraphWin("Projectile Animation", 640, 48, autoflush=False)
+    win = GraphWin("Projectile Animation", 640, 480, autoflush=False)
     win.setCoords(-10, -10, 210, 155)
 
     # draw baseline
