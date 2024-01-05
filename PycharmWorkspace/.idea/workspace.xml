@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5b4cf3a-e40a-4020-8aa5-db44a1a6bf72" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZxeNwTIL1AKtYWK3G6laAWWe8F" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.31165645" />
+  </component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.CannonWindow">
+    <configuration name="CannonWindow" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="_PycharmWorkspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 10/Cannonballl" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\islay\Documents\___school\2301 Python class\_PycharmWorkspace\Chapter 10\Cannonballl\CannonWindow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="button" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="_PycharmWorkspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 10/Multi-sided Dice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 10/Multi-sided Dice/button.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dieview" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="_PycharmWorkspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 10/Multi-sided Dice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 10/Multi-sided Dice/dieview.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="msdie (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="_PycharmWorkspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 10/Multi-sided Dice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 10/Multi-sided Dice/msdie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="roller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="_PycharmWorkspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 10/Multi-sided Dice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 10/Multi-sided Dice/roller.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.roller" />
+        <item itemvalue="Python.dieview" />
+        <item itemvalue="Python.button" />
+        <item itemvalue="Python.msdie (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5b4cf3a-e40a-4020-8aa5-db44a1a6bf72" name="Default Changelist" comment="" />
+      <created>1585785135415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585785135415</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="194" y="106" key="#Notifications" timestamp="1585785764626">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="194" y="106" key="#Notifications/0.30.1536.834@0.30.1536.834" timestamp="1585785764626" />
+    <state x="450" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586214806311">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="450" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1536.834@0.30.1536.834" timestamp="1586214806311" />
+    <state width="540" height="679" key="GridCell.Tab.0.bottom" timestamp="1586225577008">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="540" height="679" key="GridCell.Tab.0.bottom/0.30.1536.834@0.30.1536.834" timestamp="1586225577008" />
+    <state width="540" height="679" key="GridCell.Tab.0.center" timestamp="1586225577008">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="540" height="679" key="GridCell.Tab.0.center/0.30.1536.834@0.30.1536.834" timestamp="1586225577008" />
+    <state width="540" height="679" key="GridCell.Tab.0.left" timestamp="1586225577008">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="540" height="679" key="GridCell.Tab.0.left/0.30.1536.834@0.30.1536.834" timestamp="1586225577008" />
+    <state width="540" height="679" key="GridCell.Tab.0.right" timestamp="1586225577008">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="540" height="679" key="GridCell.Tab.0.right/0.30.1536.834@0.30.1536.834" timestamp="1586225577008" />
+    <state x="436" y="111" width="1100" height="715" key="SettingsEditor" timestamp="1586213395394">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="436" y="111" width="1100" height="715" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1586213395394" />
+    <state x="460" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1586225301963">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="460" y="272" key="com.intellij.ide.util.TipDialog/0.30.1536.834@0.30.1536.834" timestamp="1586225301963" />
+    <state x="0" y="3" width="658" height="861" key="find.popup" timestamp="1586185976491">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="0" y="3" width="658" height="861" key="find.popup/0.30.1536.834@0.30.1536.834" timestamp="1586185976491" />
+    <state x="665" y="316" width="710" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1585953963424">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="665" y="316" width="710" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.30.1536.834@0.30.1536.834" timestamp="1585953963424" />
+    <state x="467" y="178" width="700" height="530" key="recent.locations.popup" timestamp="1586032440977">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="467" y="178" width="700" height="530" key="recent.locations.popup/0.30.1536.834@0.30.1536.834" timestamp="1586032440977" />
+    <state x="548" y="359" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1585954038011">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="548" y="359" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.30.1536.834@0.30.1536.834" timestamp="1585954038011" />
+  </component>
+</project>
